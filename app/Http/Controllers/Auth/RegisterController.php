@@ -46,7 +46,7 @@ class RegisterController extends Controller
         $departments = Department::all();
       //return 'Hello';
         return view('auth.register', compact('departments'));
-
+ 
     }
 
     /**
