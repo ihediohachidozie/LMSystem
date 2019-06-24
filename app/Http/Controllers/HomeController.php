@@ -2,9 +2,9 @@
 
 namespace App\Http\Controllers;
 
-use \App\department;
-use \App\category;
-use \App\User;
+use App\department;
+use App\category;
+use App\User;
 use App\Leave;
 class HomeController extends Controller
 {
