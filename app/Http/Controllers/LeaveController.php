@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Leave;
 use App\User;
-use App\Department;
+use App\department;
 use App\Category;
 use App\PublicHoliday;
 use DB;
