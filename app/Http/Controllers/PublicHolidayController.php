@@ -11,7 +11,7 @@ class PublicHolidayController extends Controller
     {
        // $this->middleware('auth')->except(['index']); // locking part of a controller
         $this->middleware('auth'); // locking all parts
-    }
+    }  
 
     /**
      * Display a listing of the resource.
